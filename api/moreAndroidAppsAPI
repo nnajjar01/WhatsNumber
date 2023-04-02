@@ -2,7 +2,7 @@
     {
         "name": "Whats Number",
         "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/whatsNumberIcon.png",
-        "description": "Open chats withot saving numbers to your mobile try it now",
+        "description": "Open WhatsApp chat without contact, Make links, Send saved messages to WhatsApp",
         "link": "https://play.google.com/store/apps/details?id=najjarco.whatsnumber1",
         "type": "app",
         "buttonText": "Rate"
@@ -11,19 +11,11 @@
     {
         "name": "Snap Up",
         "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/snapUpIcon512.png",
-        "description": "Open chats withot saving numbers to your mobile try it now",
+        "description": "Share photos and videos to Snapchat with album organized gallery picker.",
         "link": "https://play.google.com/store/apps/details?id=najjarco.snapup",
         "type": "app",
-        "buttonText": "Soon"
+        "buttonText": "Get"
 
     },
-    {
-        "name": "IWTS - Website",
-        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/whatsNumberIcon.png",
-        "description": "Open chats withot saving numbers to your mobile try it now",
-        "link": "https://iwts.link/",
-        "type": "web",
-        "buttonText": "Open"
 
-    }
 ]
