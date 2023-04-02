@@ -1,1 +1,24 @@
+[
+    {
+        "name": "Whats Number",
+        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/whatsNumberIcon.png",
+        "description": "Open chats withot saving numbers to your mobile try it now",
+        "link": "https://play.google.com/store/apps/details?id=najjarco.whatsnumber1",
+        "type": "app"
 
+    },
+    {
+        "name": "Snap Up",
+        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/snapUpIcon512.png",
+        "description": "Open chats withot saving numbers to your mobile try it now",
+        "link": "https://play.google.com/store/apps/details?id=najjarco.snapup",
+        "type": "app"
+    },
+    {
+        "name": "IWTS",
+        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/whatsNumberIcon.png",
+        "description": "Open chats withot saving numbers to your mobile try it now",
+        "link": "https://iwts.link/",
+        "type": "web"
+    }
+]
