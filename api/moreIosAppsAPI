@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Whats Number",
+        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/whatsNumberIcon.png",
+        "description": "Open WhatsApp chat without contact, Make links, Send saved messages to WhatsApp",
+        "link": "",
+        "type": "app",
+        "buttonText": "Rate"
+
+    },
+    {
+        "name": "Snap Up",
+        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/snapUpIcon512.png",
+        "description": "Share photos and videos to Snapchat with album organized gallery picker.",
+        "link": "",
+        "type": "app",
+        "buttonText": "Get"
+
+    },
+        {
+        "name": "IWTS - Website",
+        "image": "https://raw.githubusercontent.com/nnajjar01/WhatsNumber/main/api/iwts.png",
+        "description": "واتس لينك خدمة مجانية لإنشاء رابط للتواصل المباشر عبر تطبيق الواتس آب بين الخدمات والعملاء",
+        "link": "https://play.google.com/store/apps/details?id=najjarco.snapup",
+        "type": "web",
+        "buttonText": "Open"
+
+    }
+
+]
